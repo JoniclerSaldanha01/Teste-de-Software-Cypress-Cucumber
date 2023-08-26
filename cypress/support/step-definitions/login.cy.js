@@ -4,5 +4,9 @@ Given('que acesso o portal My Shop', () => {
 
 When('realizo login no portal', () => {
     cy.acessarLogin()
-    //cy.realizarLogin()
+    cy.realizarLogin()
+})
+
+Then('valido acesso a Home', () => {
+    cy.validarLogin()
 })
