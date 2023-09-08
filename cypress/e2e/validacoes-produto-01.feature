@@ -1,6 +1,7 @@
 #utf-8
 #language: pt
 
+@teste02
 Funcionalidade: validacoesProduto-01 - Validacoes do Produto
     Cenário: Validacoes Produto Blouse
     Dado que acesso o portal My Shop

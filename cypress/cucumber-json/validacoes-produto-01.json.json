@@ -1,0 +1,167 @@
+[
+  {
+    "keyword": "Funcionalidade",
+    "name": "validacoesProduto-01 - Validacoes do Produto",
+    "line": 5,
+    "id": "validacoesproduto-01---validacoes-do-produto",
+    "tags": [
+      {
+        "name": "@teste02",
+        "line": 4
+      }
+    ],
+    "uri": "validacoes-produto-01.feature",
+    "elements": [
+      {
+        "id": "validacoesproduto-01---validacoes-do-produto;validacoes-produto-blouse",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Validacoes Produto Blouse",
+        "tags": [
+          {
+            "name": "@teste02",
+            "line": 4
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 7,
+            "name": "que acesso o portal My Shop",
+            "result": {
+              "status": "passed",
+              "duration": 9283000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 8,
+            "name": "realizo login no portal",
+            "result": {
+              "status": "passed",
+              "duration": 4345000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 9,
+            "name": "acesso a categoria Women",
+            "result": {
+              "status": "passed",
+              "duration": 2443000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 10,
+            "name": "valido a quantidade de produtos em tela",
+            "result": {
+              "status": "passed",
+              "duration": 62000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 11,
+            "name": "acesso o produto 'Blouse'",
+            "result": {
+              "status": "passed",
+              "duration": 2187000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 12,
+            "name": "realizo as validacoes do produto",
+            "result": {
+              "status": "passed",
+              "duration": 181000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validacoesproduto-01---validacoes-do-produto;validacoes-produto-faded-short-sleeve-t-shirts",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "validacoes Produto Faded Short Sleeve T-shirts",
+        "tags": [
+          {
+            "name": "@teste02",
+            "line": 4
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 16,
+            "name": "que acesso o portal My Shop",
+            "result": {
+              "status": "passed",
+              "duration": 2001000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 17,
+            "name": "realizo login no portal",
+            "result": {
+              "status": "passed",
+              "duration": 3636000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 18,
+            "name": "acesso a categoria Women",
+            "result": {
+              "status": "passed",
+              "duration": 1645000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 19,
+            "name": "valido a quantidade de produtos em tela",
+            "result": {
+              "status": "passed",
+              "duration": 61000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 20,
+            "name": "acesso o produto 'Faded Short Sleeve T-shirts'",
+            "result": {
+              "status": "passed",
+              "duration": 1982000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 21,
+            "name": "realizo as validacoes do produto",
+            "result": {
+              "status": "passed",
+              "duration": 52000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

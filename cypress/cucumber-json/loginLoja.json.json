@@ -1,0 +1,59 @@
+[
+  {
+    "keyword": "Funcionalidade",
+    "name": "login Loja - Login Portal",
+    "line": 5,
+    "id": "login-loja---login-portal",
+    "tags": [
+      {
+        "name": "@teste",
+        "line": 4
+      }
+    ],
+    "uri": "loginLoja.feature",
+    "elements": [
+      {
+        "id": "login-loja---login-portal;validacao-login-portal",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Validacao Login Portal",
+        "tags": [
+          {
+            "name": "@teste",
+            "line": 4
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 7,
+            "name": "que acesso o portal My Shop",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 8,
+            "name": "realizo login no portal",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Então ",
+            "line": 9,
+            "name": "valido acesso a Home",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
