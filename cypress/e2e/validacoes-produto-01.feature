@@ -3,6 +3,7 @@
 
 @teste02
 Funcionalidade: validacoesProduto-01 - Validacoes do Produto
+
     Cenário: Validacoes Produto Blouse
     Dado que acesso o portal My Shop
     Quando realizo login no portal

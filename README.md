@@ -8,6 +8,7 @@
 - [x] Elementos por Parametros <br>
 - [x] Acessado um elemento em um Container <br>
 - [x] Assertivas <br>
+- [x] Status report / video evidencia
  
  <h2> Revisão Parte 02 "Teste de API"</h2>
 * [Status do Projeto]() :[Em Desenvolvimento] 
